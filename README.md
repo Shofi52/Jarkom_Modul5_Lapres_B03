@@ -27,8 +27,8 @@ xterm -T SIDOARJO -e linux ubd0=SIDOARJO,jarkom umid=SIDOARJO eth0=daemon,,,swit
 ```
 
 ### B. CIDR
-![CIDR](modul5/CIDR.PNG)
-![CIDR_TREE](modul5/CIDR_TREE.PNG)
+![CIDR](modul5/CIDR.png)
+![CIDR_TREE](modul5/CIDR_TREE.png)
 
 ### C. Melakukan Routing
 ```
